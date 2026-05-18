@@ -3,7 +3,7 @@ this project implements an Edge-AI solution to solve these industrial challenges
 ___
 
 # ESP32-S3 FFT Vibration Monitor
- <img width="720" height="1604" alt="WhatsApp Image 2026-05-18 at 8 55 36 PM" src="https://github.com/user-attachments/assets/0dca4f3a-e21b-42f8-85ab-43b04dec612c" />
+ <img width="550" height="1200" alt="WhatsApp Image 2026-05-18 at 8 55 36 PM" src="https://github.com/user-attachments/assets/0dca4f3a-e21b-42f8-85ab-43b04dec612c" />
 
 Real-time vibration frequency analysis using **ESP32-S3 SuperMini** + **MPU6050** accelerometer.  
 Collects 256 samples at 500 Hz, computes FFT, and displays a live frequency spectrum chart in any browser over WiFi — no app, no installation, no internet required.
