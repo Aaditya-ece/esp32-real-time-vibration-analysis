@@ -1,0 +1,6 @@
+Libraries:
+  1. arduinoFFT by Enrique condes
+  2. WebSockets by Markus sattler
+  3. ArduinoJson by Benoit Blanchon
+  4. Adafruit MPU6050 by Adafruit
+  5. wire.h & wifi.h
